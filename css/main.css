@@ -51,6 +51,10 @@ header{
     padding-top: 100px;
     background: #f5fff6;
 }
+.row{
+    display: flex;
+    justify-content: space-between;
+}
 
 .banner{
     max-width: 600px;
