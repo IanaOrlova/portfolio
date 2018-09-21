@@ -48,10 +48,12 @@ header{
 }
 
 .portfolio{
-    padding-top: 100px;
+
     background: #f5fff6;
 }
 .row{
+    padding-top: 100px;
+    padding-bottom: 100px;
     display: flex;
     justify-content: space-between;
 }
