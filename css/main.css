@@ -157,8 +157,12 @@ footer{
 }
 
 @media all and (max-width: 500px){
+    header{
+        padding-bottom: 80px;
+    }
     .name{
         margin-bottom: 0;
+        margin-top: 80px;
     }
 
     h3 {
@@ -167,6 +171,12 @@ footer{
     }
     li{
         font-size: 16px;
+    }
+    .row{
+        padding-bottom: 0;
+    }
+    .contacts li{
+        padding: 0 10px;
     }
 }
 
